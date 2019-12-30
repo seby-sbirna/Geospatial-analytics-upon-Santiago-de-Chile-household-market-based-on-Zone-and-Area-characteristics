@@ -1,4 +1,4 @@
-## Project Challenge: Predictive and exploratory analytics upon the household market of Santiago de Chile, based on geo-spatial data, zone and area characteristics
+## Predictive and exploratory analytics upon the household market of Santiago de Chile, based on geo-spatial data, zone and area characteristics
 
 ### **_by Sebastian Sbirna (s190553), Blanca Robledo Diaz (s174437) and Shalaka Patil (s191471)_**
 ---
