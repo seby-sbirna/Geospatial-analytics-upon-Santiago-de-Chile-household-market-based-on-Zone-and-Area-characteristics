@@ -3467,7 +3467,7 @@ display(IFrame(src = 'map_plot_1.html', width = 1600, height = 800))
 ```
 
 
-<pre><iframe width="1600" height="800" src="Map plots - JS & HTML (Folium)/map_plot_1.html" frameborder="0" allowfullscreen></iframe></pre>
+<pre><iframe width="1600" height="800" src="map_plot_1.html" frameborder="0" allowfullscreen></iframe></pre>
 
 
 The boundaries of looks quite clear. ___However, why did we choose exactly that parcel of Santiago as our dataset?___
