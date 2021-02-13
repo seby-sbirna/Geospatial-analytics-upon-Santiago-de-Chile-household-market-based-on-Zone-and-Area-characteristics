@@ -20,7 +20,8 @@
 <a id='intro'></a>
 ## Part 1: _<u>Introduction</u>_
 
-Housing prices are an important reflection of the economy, and housing price ranges are of great interest for both buyers and sellers. In this project, our aim is to predict the type of household that will buy the house, given the area characteristics of the household and zone of the city. 
+Housing prices are an important reflection of the economy, and housing price ranges are of great interest for both buyers and sellers. In this project, our aim is to predict the type of household that will buy the house, given the area characteristics of the household and zone of t
+he city. 
 
 The area under study is Santiago de Chile. The provided dataset consists of data for ___18264 households explained by 30 variables i.e. area characteristics.___ We will use Machine Learning algorithms intended for Supervised Learning, in order to perform a classification of which household type would buy a house in some selected part of Santiago. The specific algorithms that we will use (Logistic Regression, Decision Trees, and Neural Network) will be presented in detail within a future part of this project.
 
@@ -3466,15 +3467,7 @@ display(IFrame(src = 'map_plot_1.html', width = 1600, height = 800))
 ```
 
 
-<pre>
-<iframe
-    width="1600"
-    height="800"
-    src="map_plot_1.html"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-</pre>
+<pre><iframe width="1600" height="800" src="map_plot_1.html" frameborder="0" allowfullscreen></iframe></pre>
 
 
 The boundaries of looks quite clear. ___However, why did we choose exactly that parcel of Santiago as our dataset?___
