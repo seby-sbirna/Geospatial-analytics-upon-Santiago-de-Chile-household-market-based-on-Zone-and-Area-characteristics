@@ -1,6 +1,6 @@
 ## _Geospatial analytics and Machine Learning predictions upon Santiago de Chile household market, based on geographical data, zone and area characteristics_
 
-### **_by Sebastian Sbirna (s190553), Blanca Robledo Diaz (s174437) and Shalaka Patil (s191471)_**
+### **_by Sebastian Sbirna, Blanca Robledo Diaz & Shalaka Patil_**
 ---
 ## Table of Contents
 - [Part 1: <u>Introduction</u>](#intro)
